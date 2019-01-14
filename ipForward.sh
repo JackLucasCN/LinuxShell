@@ -53,4 +53,4 @@ echo $ipadd>>transform.list
 echo 'Flushing DNS.'
 /etc/init.d/nscd restart
 /etc/init.d/nscd force-reload
-exit 'This shell was written by jacklucascn@gmail.com, thanks for using!'
+exit 'This shell was written by jacklucascn@gmail.com, github https://github.com/JackLucasCN/LinuxShell, thanks for using!'
